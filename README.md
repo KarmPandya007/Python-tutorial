@@ -32,3 +32,18 @@ This repository covers (and will continue to expand on):
 - Best Practices & Clean Code
 
 ---
+
+## 📂 Repository Structure
+
+```bash
+python-tutorials/
+│
+├── basics/
+├── control-flow/
+├── functions/
+├── data-structures/
+├── oop/
+├── file-handling/
+├── exceptions/
+├── practice-programs/
+└── README.md
