@@ -35,7 +35,7 @@ PI = 3.14159
 radius = 5
 area = PI * radius ** 2
 
-# Exercise
+# Exercises
 """
 1. Refactor a given piece of code to make it cleaner and more readable.
 2. Write a program that adheres to PEP 8 guidelines.
